@@ -1,3 +1,6 @@
+# Changes from main repo
+The only changes in this fork (so far) are adding files for `pipenv` to let this build, and the use GPU-acceleration locally. GPU acceleration also requires other things as well.
+
 [English](./README.md) / [Spanish](./README_es.md) / [Korean](./README_ko.md) / [Chinese](./README_zh.md) / [Bengali](./README_bn.md) / [Indonesian](./README_id.md) / [Italian](./README_it.md) / [Portuguese](./README_pt.md) / [Vietnamese](./README_vn.md)
 
 # The fastai book
